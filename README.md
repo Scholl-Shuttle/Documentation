@@ -1,6 +1,5 @@
 
-|------------------|-----------|
-| 📄 [**Voltar**](./VRUM/Documentação/Artigo) | Documento completo com as etapas e resultados do semestre. |
+| 📄 [**Voltar**](https://github.com/Scholl-Shuttle/Overview) | Voltar para Home. |
 
 # 📘 VRUM – Documentação do Projeto
 
