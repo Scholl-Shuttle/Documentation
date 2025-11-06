@@ -1,5 +1,5 @@
 
- [**ᐸ HOME**](https://github.com/Scholl-Shuttle) | Voltar para Home. |
+ [**ᐸ**](https://github.com/Scholl-Shuttle) Voltar para Home.
 
 # 📘 VRUM – Documentação do Projeto
 
