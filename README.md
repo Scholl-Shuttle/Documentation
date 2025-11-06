@@ -9,11 +9,12 @@ O projeto busca aprimorar a **gestão e o monitoramento do transporte escolar ur
 
 | Tipo de Arquivo | Descrição |
 |------------------|-----------|
-| 📄 **Artigo - CONTEEX** | Documento completo com as etapas e resultados do semestre. |
-| 📊 **Cronograma do Projeto** | Planejamento das atividades realizadas pela equipe. |
-| 🗂️ **Requisitos Funcionais e Não Funcionais** | Lista das principais funções e restrições do sistema. |
-| 🧩 **Diagramas Técnicos** | Inclui os diagramas de Caso de Uso, DER e Classes. |
-| 🎨 **Interfaces (Figma)** | Conjunto de 18 telas desenvolvidas para o MVP. |
+| 📄 [**Artigo - CONTEEX**](./Artigo-CONTEEX-2025.pdf) | Documento completo com as etapas e resultados do semestre. |
+| 📊 [**Cronograma do Projeto**](./cronograma_academico_v2) | Planejamento das atividades realizadas pela equipe. |
+| 🗂️ [**Requisitos Funcionais e Não Funcionais**](./requisitos) | Lista das principais funções e restrições do sistema. |
+| 🧩 [**Diagramas Técnicos**](./diagramas) | Inclui os diagramas de Caso de Uso, DER e Classes. |
+| 🎨 [**Interfaces (Figma)**](./interface_figma) | Conjunto de 18 telas desenvolvidas para o MVP. |
+
 
 ---
 
