@@ -13,7 +13,7 @@ O projeto busca aprimorar a **gestão e o monitoramento do transporte escolar ur
 | 📊 [**Cronograma do Projeto**](./VRUM/Documentação/Cronograma) | Planejamento das atividades realizadas pela equipe. |
 | 🗂️ [**Requisitos Funcionais e Não Funcionais**](./VRUM/Documentação/Requisitos) | Lista das principais funções e restrições do sistema. |
 | 🧩 [**Diagramas Técnicos**](./VRUM/Documentação/Diagramas) | Inclui os diagramas de Caso de Uso, DER e Classes. |
-| 🎨 [**Interfaces (Figma)**](./VRUM/Documentação/Interface_Figma) | Conjunto de 18 telas desenvolvidas para o MVP. |
+| 🎨 [**Interfaces (Figma)**](./VRUM/Documentação/Interfaces_Figma) | Conjunto de 18 telas desenvolvidas para o MVP. |
 
 
 
