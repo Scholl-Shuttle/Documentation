@@ -65,8 +65,8 @@ O cronograma do projeto apresenta as etapas de:
 
 ---
 
-> Projeto desenvolvido no curso de **Análise e Desenvolvimento de Sistemas – FAM (2025)**  
-> Apresentado no **Congresso CONTEEX 2025**
+> Projeto desenvolvido no curso de **Análise e Desenvolvimento de Sistemas – FAM (2026)**  
+> Apresentado no **Congresso CONTEEX 2026**
 >
 >  🚐 *Equipe VRUM*
 
